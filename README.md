@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joaquín Pérez</h1>
 <h3 align="center">Passionate Software Engineer from Spain</h3>
 
-- 🔭 I’m currently working on an startup as Lead Software Engineer
+- 🔭 I’m currently working on an startup as Lead Mobile Engineer
 
 - 🌱 I’m currently learning **Javascript, Typescript, Software Architecture**
 
