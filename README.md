@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Swift, React, React Native, Mobile Development, UI/UX**
 
-- 📫 How to reach me **contacto@joaquinperezlopez.com or joaquin@adaviv.com**
+- 📫 How to reach me **contacto@joaquinperezlopez.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/joaquinperezlopez8/](https://www.linkedin.com/in/joaquinperezlopez8/)
 
