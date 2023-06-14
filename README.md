@@ -9,11 +9,11 @@
 
 - 📫 How to reach me **contacto@joaquinperezlopez.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/joaquinperezlopez8/](https://www.linkedin.com/in/joaquinperezlopez/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/joaquinperezlopez/](https://www.linkedin.com/in/joaquinperezlopez/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/joaquinperezlopez8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaquinperezlopez8" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/joaquinperezlopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaquinperezlopez" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jpl850" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jpl850" height="30" width="40" /></a>
 </p>
 
